@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Component: Designator=X2(GenericPinHeader(.1in))
+Added Pin To Net: NetName=NetC22_1 Pin=X2-1
+Added Member To Class: ClassName=PP_Schematic Member=Component X2 GenericPinHeader(0.1in)

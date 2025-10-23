@@ -1,0 +1,29 @@
+Added Component: Designator=R17(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetC22_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetC22_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC22_1 Pin=Q2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-3
+Added Pin To Net: NetName=NetD2_2 Pin=R17-1
+Added Pin To Net: NetName=NetC22_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetD3_2 Pin=R18-2
+Added Pin To Net: NetName=NetD2_2 Pin=X1-1
+Added Pin To Net: NetName=NetC22_1 Pin=X2-1
+Added Member To Class: ClassName=PP_Schematic Member=Component C22 865080343009
+Added Member To Class: ClassName=PP_Schematic Member=Component D2 SMBJ13CA-E3/52
+Added Member To Class: ClassName=PP_Schematic Member=Component D3 MMSZ5231B-7-F
+Added Member To Class: ClassName=PP_Schematic Member=Component D4 MMSZ5231B-7-F
+Added Member To Class: ClassName=PP_Schematic Member=Component Q2 MOSFET P-CH 30V 2A SOT-23
+Added Member To Class: ClassName=PP_Schematic Member=Component R17 Resistor
+Added Member To Class: ClassName=PP_Schematic Member=Component R18 Resistor
+Added Member To Class: ClassName=PP_Schematic Member=Component X1 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component X2 GenericPinHeader(0.1in)

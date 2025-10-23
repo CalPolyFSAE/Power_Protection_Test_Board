@@ -1,0 +1,66 @@
+Added Component: Designator=C22(6.60x6.60x8.00mm_E_CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/865080343009/5728014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMBJ13CA-E3/52)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SMBJ13CA-E3-52/1119222?s=N4IgTCBcDaIMoFkBCApAjAZgMIEEC0AohgPQCsEAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STR2P3LLH6/5244876"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/96/4a/55/9d/3c/16/47/d6/DM00084050.pdf/files/DM00084050.pdf/jcr:content/translations/en.DM00084050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RdsOn"; Value = "56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "P Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VgsMax"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vt"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=X?(GenericPinHeader(.1in))
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetC22_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetC22_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC22_1 Pin=Q2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-3
+Added Pin To Net: NetName=NetD2_2 Pin=R17-1
+Added Pin To Net: NetName=NetC22_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetD3_2 Pin=R18-2
+Added Pin To Net: NetName=NetD2_2 Pin=X?-1
+Added Member To Class: ClassName=PP_Schematic Member=Component C22 865080343009
+Added Member To Class: ClassName=PP_Schematic Member=Component D2 SMBJ13CA-E3/52
+Added Member To Class: ClassName=PP_Schematic Member=Component D3 MMSZ5231B-7-F
+Added Member To Class: ClassName=PP_Schematic Member=Component D4 MMSZ5231B-7-F
+Added Member To Class: ClassName=PP_Schematic Member=Component Q2 MOSFET P-CH 30V 2A SOT-23
+Added Member To Class: ClassName=PP_Schematic Member=Component R17 Resistor
+Added Member To Class: ClassName=PP_Schematic Member=Component R18 Resistor
+Added Member To Class: ClassName=PP_Schematic Member=Component X? GenericPinHeader(0.1in)
