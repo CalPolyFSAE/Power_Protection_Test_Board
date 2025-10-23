@@ -1,0 +1,3 @@
+Added Component: Designator=Protected(GenericPinHeader(.1in))
+Added Pin To Net: NetName=NetC22_1 Pin=Protected-1
+Added Member To Class: ClassName=PP_Schematic Member=Component Protected GenericPinHeader(0.1in)
