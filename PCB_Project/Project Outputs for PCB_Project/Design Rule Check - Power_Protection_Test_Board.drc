@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Altium\Power_protection_Circuits\PPC\PCB_Project\Power_Protection_Test_Board.PcbDoc
-Date     : 10/27/2025
-Time     : 8:32:17 PM
+Date     : 10/29/2025
+Time     : 8:05:00 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -78,4 +78,4 @@ Rule Violations :0
 
 Violations Detected : 30
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

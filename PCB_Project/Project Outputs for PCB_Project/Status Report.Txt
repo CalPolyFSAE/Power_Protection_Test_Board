@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[Power_Protection_Test_Board.TXT]
+   Generated File[Power_Protection_Test_Board.DRL]
+   Generated File[Power_Protection_Test_Board.LDP]
+   Generated File[Power_Protection_Test_Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:06:03 PM On 10/29/2025
