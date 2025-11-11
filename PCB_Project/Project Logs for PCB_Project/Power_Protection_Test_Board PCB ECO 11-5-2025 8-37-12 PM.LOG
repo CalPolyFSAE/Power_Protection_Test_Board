@@ -1,0 +1,193 @@
+Added Component: Designator=C22_U_PP_Schematic_Large(6.60x6.60x8.00mm_E_CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/865080343009/5728014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Added Component: Designator=C22_U_PP_Schematic_Norm(6.60x6.60x8.00mm_E_CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/865080343009/5728014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Added Component: Designator=C22_U_PP_Schematic_Small(6.60x6.60x8.00mm_E_CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/865080343009/5728014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_PP_Schematic_Large(SMBJ13CA-E3/52)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SMBJ13CA-E3-52/1119222?s=N4IgTCBcDaIMoFkBCApAjAZgMIEEC0AohgPQCsEAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_PP_Schematic_Norm(SMBJ13CA-E3/52)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SMBJ13CA-E3-52/1119222?s=N4IgTCBcDaIMoFkBCApAjAZgMIEEC0AohgPQCsEAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_PP_Schematic_Small(SMBJ13CA-E3/52)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SMBJ13CA-E3-52/1119222?s=N4IgTCBcDaIMoFkBCApAjAZgMIEEC0AohgPQCsEAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "13V"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_PP_Schematic_Large(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_PP_Schematic_Norm(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D3_U_PP_Schematic_Small(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D4_U_PP_Schematic_Large(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D4_U_PP_Schematic_Norm(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D4_U_PP_Schematic_Small(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/MMSZ5231B-7-F/755472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_U_PP_Schematic_Large(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STR2P3LLH6/5244876"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/96/4a/55/9d/3c/16/47/d6/DM00084050.pdf/files/DM00084050.pdf/jcr:content/translations/en.DM00084050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RdsOn"; Value = "56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "P Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VgsMax"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vt"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_U_PP_Schematic_Norm(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STR2P3LLH6/5244876"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/96/4a/55/9d/3c/16/47/d6/DM00084050.pdf/files/DM00084050.pdf/jcr:content/translations/en.DM00084050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RdsOn"; Value = "56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "P Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VgsMax"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vt"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_U_PP_Schematic_Small(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/STR2P3LLH6/5244876"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/96/4a/55/9d/3c/16/47/d6/DM00084050.pdf/files/DM00084050.pdf/jcr:content/translations/en.DM00084050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RdsOn"; Value = "56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "P Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VgsMax"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vt"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R17_U_PP_Schematic_Large(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R17_U_PP_Schematic_Norm(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R17_U_PP_Schematic_Small(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R18_U_PP_Schematic_Large(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R18_U_PP_Schematic_Norm(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R18_U_PP_Schematic_Small(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=X1_U_PP_Schematic_Large(GenericPinHeader(.1in))
+Added Component: Designator=X1_U_PP_Schematic_Norm(GenericPinHeader(.1in))
+Added Component: Designator=X1_U_PP_Schematic_Small(GenericPinHeader(.1in))
+Added Component: Designator=X2_U_PP_Schematic_Large(GenericPinHeader(.1in))
+Added Component: Designator=X2_U_PP_Schematic_Norm(GenericPinHeader(.1in))
+Added Component: Designator=X2_U_PP_Schematic_Small(GenericPinHeader(.1in))
+Added Pin To Net: NetName=GND Pin=C22_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=GND Pin=C22_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=GND Pin=C22_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=GND Pin=D2_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=GND Pin=D2_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=GND Pin=D2_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=GND Pin=D4_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=GND Pin=D4_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=GND Pin=D4_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=GND Pin=R18_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=GND Pin=R18_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=GND Pin=R18_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=C22_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=D3_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=D4_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=Q2_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=R17_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Large_1 Pin=X2_U_PP_Schematic_Large-1
+Added Net: Name=NetC22_U_PP_Schematic_Large_1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=C22_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=D3_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=D4_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=Q2_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=R17_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Norm_1 Pin=X2_U_PP_Schematic_Norm-1
+Added Net: Name=NetC22_U_PP_Schematic_Norm_1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=C22_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=D3_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=D4_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=Q2_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=R17_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=NetC22_U_PP_Schematic_Small_1 Pin=X2_U_PP_Schematic_Small-1
+Added Net: Name=NetC22_U_PP_Schematic_Small_1
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Large_2 Pin=D2_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Large_2 Pin=Q2_U_PP_Schematic_Large-3
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Large_2 Pin=R17_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Large_2 Pin=X1_U_PP_Schematic_Large-1
+Added Net: Name=NetD2_U_PP_Schematic_Large_2
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Norm_2 Pin=D2_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Norm_2 Pin=Q2_U_PP_Schematic_Norm-3
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Norm_2 Pin=R17_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Norm_2 Pin=X1_U_PP_Schematic_Norm-1
+Added Net: Name=NetD2_U_PP_Schematic_Norm_2
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Small_2 Pin=D2_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Small_2 Pin=Q2_U_PP_Schematic_Small-3
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Small_2 Pin=R17_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetD2_U_PP_Schematic_Small_2 Pin=X1_U_PP_Schematic_Small-1
+Added Net: Name=NetD2_U_PP_Schematic_Small_2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Large_2 Pin=D3_U_PP_Schematic_Large-2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Large_2 Pin=Q2_U_PP_Schematic_Large-1
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Large_2 Pin=R18_U_PP_Schematic_Large-2
+Added Net: Name=NetD3_U_PP_Schematic_Large_2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Norm_2 Pin=D3_U_PP_Schematic_Norm-2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Norm_2 Pin=Q2_U_PP_Schematic_Norm-1
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Norm_2 Pin=R18_U_PP_Schematic_Norm-2
+Added Net: Name=NetD3_U_PP_Schematic_Norm_2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Small_2 Pin=D3_U_PP_Schematic_Small-2
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Small_2 Pin=Q2_U_PP_Schematic_Small-1
+Added Pin To Net: NetName=NetD3_U_PP_Schematic_Small_2 Pin=R18_U_PP_Schematic_Small-2
+Added Net: Name=NetD3_U_PP_Schematic_Small_2
+Added Class: Name=U_PP_Schematic_Large
+Added Class: Name=U_PP_Schematic_Norm
+Added Class: Name=U_PP_Schematic_Small
+Added Class: Name=PP_Schematic

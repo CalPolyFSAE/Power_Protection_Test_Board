@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=PP_Schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=PP_Schematic_Hierarchal.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PP_Schematic_Hierarchal.SchDoc|Designator=U_PP_Schematic_Large|SchDesignator=U_PP_Schematic_Large|FileName=PP_Schematic.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PP_Schematic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PP_Schematic_Hierarchal.SchDoc|Designator=U_PP_Schematic_Norm|SchDesignator=U_PP_Schematic_Norm|FileName=PP_Schematic.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PP_Schematic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PP_Schematic_Hierarchal.SchDoc|Designator=U_PP_Schematic_Small|SchDesignator=U_PP_Schematic_Small|FileName=PP_Schematic.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PP_Schematic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

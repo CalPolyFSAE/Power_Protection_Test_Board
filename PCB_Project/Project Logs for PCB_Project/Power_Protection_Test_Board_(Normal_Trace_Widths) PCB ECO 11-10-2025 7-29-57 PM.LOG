@@ -1,0 +1,8 @@
+Added Component: Designator=X9(GenericPinHeader(.1in))
+Added Component: Designator=X10(GenericPinHeader(.1in))
+Added Pin To Net: NetName=NetX9_1 Pin=X9-1
+Added Pin To Net: NetName=NetX9_1 Pin=X10-1
+Added Net: Name=NetX9_1
+Added Member To Class: ClassName=PP_Schematic Member=Component X9 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component X10 GenericPinHeader(0.1in)
+Added Rule: Name=Schematic Supply Nets

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Power_Protection_Test_Board_(Normal_Trace_Widths).PcbDoc]
+   Generated File[Power_Protection_Test_Board_(Normal_Trace_Widths)-Plated.TXT]
+   Generated File[Power_Protection_Test_Board_(Normal_Trace_Widths).LDP]
+   Generated File[Power_Protection_Test_Board_(Normal_Trace_Widths).DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:39:32 PM On 11/10/2025
