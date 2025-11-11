@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power_Protection_Test_Board_(Normal_Trace_Widths).PcbDoc   11/10/2025  7:39:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Power_Protection_Test_Board_(Normal_Trace_Widths)-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      40mil (1.016mm)                                           Round             10        PTH        1.58inch (40.03mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              10
+
+Total Processing Time (hh:mm:ss) : 00:00:00
