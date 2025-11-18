@@ -1,0 +1,28 @@
+Added Component: Designator=Input1(GenericPinHeader(.1in))
+Added Component: Designator=Input2(GenericPinHeader(.1in))
+Added Component: Designator=Input3(GenericPinHeader(.1in))
+Added Component: Designator=Input4(GenericPinHeader(.1in))
+Added Component: Designator=Protected1(GenericPinHeader(.1in))
+Added Component: Designator=Protected2(GenericPinHeader(.1in))
+Added Component: Designator=Protected3(GenericPinHeader(.1in))
+Added Component: Designator=Protected4(GenericPinHeader(.1in))
+Added Pin To Net: NetName=NetInput1_1 Pin=Input1-1
+Added Pin To Net: NetName=NetInput1_1 Pin=Protected1-1
+Added Net: Name=NetInput1_1
+Added Pin To Net: NetName=NetInput2_1 Pin=Input2-1
+Added Pin To Net: NetName=NetInput2_1 Pin=Protected2-1
+Added Net: Name=NetInput2_1
+Added Pin To Net: NetName=NetInput3_1 Pin=Input3-1
+Added Pin To Net: NetName=NetInput3_1 Pin=Protected3-1
+Added Net: Name=NetInput3_1
+Added Pin To Net: NetName=NetInput4_1 Pin=Input4-1
+Added Pin To Net: NetName=NetInput4_1 Pin=Protected4-1
+Added Net: Name=NetInput4_1
+Added Member To Class: ClassName=PP_Schematic Member=Component Input1 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Input2 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Input3 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Input4 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Protected1 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Protected2 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Protected3 GenericPinHeader(0.1in)
+Added Member To Class: ClassName=PP_Schematic Member=Component Protected4 GenericPinHeader(0.1in)
